@@ -58,6 +58,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Word embeddings
 
+* [fastText[https://fasttext.cc/docs/en/crawl-vectors.html)
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
 * [GloVe](https://lang.org.ua/en/models/#anchor4)
 * [LexVec](https://lang.org.ua/en/models/#anchor4)
