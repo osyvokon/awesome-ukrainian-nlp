@@ -59,6 +59,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 ### Word embeddings
 
 * [fastText](https://fasttext.cc/docs/en/crawl-vectors.html)
+* [fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) — word vectors in 78 languages, aligned to the same vector space.
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
 * [GloVe](https://lang.org.ua/en/models/#anchor4)
 * [LexVec](https://lang.org.ua/en/models/#anchor4)
