@@ -31,7 +31,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 * [tree_stem](https://github.com/amakukha/stemmers_ukrainian) — stemmer
 * [pymorphy2](https://github.com/kmike/pymorphy2) + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
-* [LanguageTool](https://languagetool.org/uk/) -- grammar, style and spell checker
+* [LanguageTool](https://languagetool.org/uk/) — grammar, style and spell checker
+* [Stanza](https://stanfordnlp.github.io/stanza/) — POS, tokenization, lemmatization, etc. 
 
  
 
