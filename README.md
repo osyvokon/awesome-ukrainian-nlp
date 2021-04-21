@@ -13,13 +13,16 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [CC-100](http://data.statmt.org/cc-100/)  — documents extracted from [Common Crawl](https://commoncrawl.org/), automatically classified and filtered. Ukrainian part is 200M sentences or 10GB of deduplicated text.
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) — 250k sentences scraped from forums.
+* [Ukrainian Descriptions Of Words](https://www.kaggle.com/ihelon/ukrainian-descriptions-of-words) - kaggle-based small dataset (119 pairs) of Ukrainian word descriptions (like the game Alias). Can be used for semantics-related tasks.
+* [Ukrainian news articles](https://www.kaggle.com/c/ukrainian-news-classification/overview) - 50K news articles with titles and sources
+
 ### Parallel
 
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) 
 
 ### Labeled
 
-* [UA-GEC](https://github.com/grammarly/ua-gec) —  grammatical error correction (GEC) and fluency corpus.
+* [UA-GEC](https://github.com/grammarly/ua-gec) — grammatical error correction (GEC) and fluency corpus.
 * [NER-uk](https://github.com/lang-uk/ner-uk) — Brown-UK labeled for named entities
 * [Yakaboo Book Reviews](https://yakaboo-book-reviews-dataset.imfast.io/) — book reviews, rating and descriptions
 * [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) — dependency trees corpus
