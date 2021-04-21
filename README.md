@@ -41,6 +41,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 ### Language models
 
 * [RoBERTa](https://huggingface.co/youscan/ukr-roberta-base)
+* [GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
 
 ### Machine translation
 
