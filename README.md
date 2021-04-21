@@ -14,10 +14,9 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * A small [scraped corpus](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) for Ukrainian error correction
 
-### Multilingual
+### Parallel
 
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) 
-* [LORELEI Ukrainian Representative Language Pack](https://catalog.ldc.upenn.edu/LDC2020T24) - Ukrainian texts, some part translated into English. Also annotated with NE.
 
 ### Labeled
 
@@ -31,7 +30,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [ВЕСУМ](https://github.com/brown-uk/dict_uk) — POS tag dictionary. Can generate a list of all wordforms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk)
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
-
+* [obscene-ukr](https://github.com/saganoren/obscene-ukr) — profanity dictionary
 
 
 ## 2. Tools
@@ -73,3 +72,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [GloVe](https://lang.org.ua/en/models/#anchor4)
 * [LexVec](https://lang.org.ua/en/models/#anchor4)
 * [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md)
+
+
+## 4. Paid
+
+* [LORELEI Ukrainian Representative Language Pack](https://catalog.ldc.upenn.edu/LDC2020T24) - Ukrainian monolingual text, Ukrainian-English parallel text, partially annotated for named entities
