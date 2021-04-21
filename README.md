@@ -46,7 +46,12 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 * [Helsinki NLP models](https://huggingface.co/Helsinki-NLP) — 10 language pairs, Ukrainian from/to English, Finnish, French, Spanish, Swedish.
 * [M2M-100](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100) — translate from/to any of 100 languages.
-    
+
+### Sequence-to-sequence models
+
+* [mBART50](https://github.com/pytorch/fairseq/tree/master/examples/multilingual#mbart50-models)
+* [mT5](https://github.com/google-research/multilingual-t5)
+
 ### Named-entity recognition (NER)
 
 * [MITIE NER Model](https://lang.org.ua/en/models/#anchor1)
