@@ -17,8 +17,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [UA-GEC](https://github.com/grammarly/ua-gec) —  grammatical error correction (GEC) and fluency corpus.
 * [NER-uk](https://github.com/lang-uk/ner-uk) — Brown-UK labeled for named entities
 * [Yakaboo Book Reviews](https://yakaboo-book-reviews-dataset.imfast.io/) — book reviews, rating and descriptions
-
-
+* [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) — dependency trees corpus
+ 
 ### Dictionaries
 
 * [ВЕСУМ](https://github.com/brown-uk/dict_uk) — POS tag dictionary. Can generate a list of all wordforms valid for spelling.
