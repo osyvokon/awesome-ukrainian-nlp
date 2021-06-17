@@ -31,6 +31,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) — profanity dictionary
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) — word stress for 2.7M word forms 
+* [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) —  words that share the same spelling but have different meaning/pronunciation.
 
 
 ## 2. Tools
