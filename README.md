@@ -14,11 +14,13 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) — 250k sentences scraped from forums.
 * [Ukrainian Descriptions Of Words](https://www.kaggle.com/ihelon/ukrainian-descriptions-of-words) - kaggle-based small dataset (119 pairs) of Ukrainian word descriptions (like the game Alias). Can be used for semantics-related tasks.
-* [Ukrainian news articles](https://www.kaggle.com/c/ukrainian-news-classification/overview) - 50K news articles with titles and sources
+* [Ukrainian news articles](https://www.kaggle.com/c/ukrainian-news-classification/overview) - 50K news articles with titles and sources (benchmark for text classification)
 
 ### Parallel
 
-* [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) 
+* [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) - 1,156,579 words.
+* [English-Ukrainian Tatoeba sentence pairs](https://www.manythings.org/anki/) - a collection of 155K sentence pairs of small length from a flashcards game.
+* Some other corpora available on https://opus.nlpl.eu/. 
 
 ### Labeled
 
