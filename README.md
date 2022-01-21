@@ -21,7 +21,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) - 1,156,579 words.
 * [English-Ukrainian Tatoeba sentence pairs](https://www.manythings.org/anki/) - a collection of 155K sentence pairs of small length from a flashcards game.
 * Some multilingual corpora are available on https://opus.nlpl.eu/, although many datasets are frequently misaligned.
-* Ukrainian-English eval set of 997 sentences from [2021 shared task on multilingual translation](https://www.statmt.org/wmt21/large-scale-multilingual-translation-task.html).
+* ~2K parallel Uk-En sentences from [the FLORES-101](https://github.com/facebookresearch/flores#the-flores-101-evaluation-benchmark-for-low-resource-and-multilingual-machine-translation).
 
 ### Labeled
 
