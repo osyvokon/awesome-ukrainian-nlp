@@ -14,13 +14,19 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [mC4](https://github.com/allenai/allennlp/discussions/5056) — filtered CommonCrawl again, 196GB of Ukrainian text. 
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) — 250k sentences scraped from forums.
+* [Ukrainian Descriptions Of Words](https://www.kaggle.com/ihelon/ukrainian-descriptions-of-words) - kaggle-based small dataset (119 pairs) of Ukrainian word descriptions (like the game Alias). Can be used for semantics-related tasks.
+* [Ukrainian news articles](https://www.kaggle.com/c/ukrainian-news-classification/overview) - 50K news articles with titles and sources (benchmark for text classification)
+
 ### Parallel
 
-* [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) 
+* [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) - 1,156,579 words.
+* [English-Ukrainian Tatoeba sentence pairs](https://www.manythings.org/anki/) - a collection of 155K sentence pairs of small length from a flashcards game.
+* Some multilingual corpora are available on https://opus.nlpl.eu/, although many datasets are frequently misaligned.
+* ~2K parallel Uk-En sentences from [the FLORES-101](https://github.com/facebookresearch/flores#the-flores-101-evaluation-benchmark-for-low-resource-and-multilingual-machine-translation).
 
 ### Labeled
 
-* [UA-GEC](https://github.com/grammarly/ua-gec) —  grammatical error correction (GEC) and fluency corpus.
+* [UA-GEC](https://github.com/grammarly/ua-gec) — grammatical error correction (GEC) and fluency corpus.
 * [NER-uk](https://github.com/lang-uk/ner-uk) — Brown-UK labeled for named entities
 * [Yakaboo Book Reviews](https://yakaboo-book-reviews-dataset.imfast.io/) — book reviews, rating and descriptions
 * [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) — dependency trees corpus
