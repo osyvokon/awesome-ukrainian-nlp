@@ -14,9 +14,15 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [mC4](https://github.com/allenai/allennlp/discussions/5056) — filtered CommonCrawl again, 196GB of Ukrainian text. 
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) — 250k sentences scraped from forums.
+
 ### Parallel
 
+* [OPUS](https://opus.nlpl.eu/)
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) 
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md)
+
+See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for more data and machine translation resources links.
 
 ### Labeled
 
@@ -54,8 +60,12 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Machine translation
 
-* [Helsinki NLP models](https://huggingface.co/Helsinki-NLP) — 10 language pairs, Ukrainian from/to English, Finnish, French, Spanish, Swedish.
-* [M2M-100](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100) — translate from/to any of 100 languages.
+* [Helsinki-NLP / OPUS-MT models](https://github.com/Helsinki-NLP/UkrainianLT) — Ukrainian to/from 25 langaguages.
+  - [OPUS-MT models at HuggingFace](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
+  - [OPUS-MT models evaluated on flores101](https://github.com/Helsinki-NLP/UkrainianLT/blob/main/opus-mt-ukr-flores-devtest.md)
+* [M2M-100](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100) — Ukrainian to/from 100 languages.
+
+See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for more.
 
 ### Sequence-to-sequence models
 
@@ -80,3 +90,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 ## 4. Paid
 
 * [LORELEI Ukrainian Representative Language Pack](https://catalog.ldc.upenn.edu/LDC2020T24) - Ukrainian monolingual text, Ukrainian-English parallel text, partially annotated for named entities
+
+
+## 5. Other resources and links
+
+* [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) — another collection of links to Ukrainian language tools.
