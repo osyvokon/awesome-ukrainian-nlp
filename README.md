@@ -55,8 +55,9 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 
 ### Language models
 
-* [RoBERTa](https://huggingface.co/youscan/ukr-roberta-base)
-* [GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
+* [XGLM](https://github.com/pytorch/fairseq/blob/main/examples/xglm/README.md) — multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian
+* [Tereveni-AI/GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
+* [youscan/ukr-roberta-base](https://huggingface.co/youscan/ukr-roberta-base)
 
 ### Machine translation
 
