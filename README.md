@@ -14,7 +14,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [mC4](https://github.com/allenai/allennlp/discussions/5056) — filtered CommonCrawl again, 196GB of Ukrainian text. 
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) — 250k sentences scraped from forums.
-* [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
+* [Ukrainain news headlines](https://huggingface.co/datasets/Yehor/ukrainian-news-headlines) — 5.2M news headlines.
 
 ### Parallel
 
@@ -22,6 +22,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535) 
 * [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md)
+* [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
 
 See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for more data and machine translation resources links.
 
