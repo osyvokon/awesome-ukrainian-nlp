@@ -97,3 +97,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 ## 5. Other resources and links
 
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) — another collection of links to Ukrainian language tools.
+* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) — speech recognition and text-to-speech models and datasets
