@@ -57,9 +57,13 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 
 ### Language models
 
+*Masked:*
+* [xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) — truncated version of XLM-RoBERTa with only Ukrainian and English embeddings left.
+* [youscan/ukr-roberta-base](https://huggingface.co/youscan/ukr-roberta-base)
+
+*Autoregressive:*
 * [XGLM](https://github.com/pytorch/fairseq/blob/main/examples/xglm/README.md) — multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian
 * [Tereveni-AI/GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
-* [youscan/ukr-roberta-base](https://huggingface.co/youscan/ukr-roberta-base)
 
 ### Machine translation
 
@@ -78,6 +82,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 ### Named-entity recognition (NER)
 
 * [MITIE NER Model](https://lang.org.ua/en/models/#anchor1)
+* [ukr-models/uk-ner](https://huggingface.co/ukr-models/uk-ner)
 
 ### Word embeddings
 
@@ -89,6 +94,9 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 * [LexVec](https://lang.org.ua/en/models/#anchor4)
 * [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md)
 
+### Other
+
+* [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model 
 
 ## 4. Paid
 
