@@ -39,7 +39,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk)
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) — profanity dictionary
-* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) — word stress for 2.7M word forms 
+* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) 
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) — map abbreviation to expansion
 
@@ -97,6 +97,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 ### Other
 
 * [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model 
+* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) — adds word stress
 
 ## 4. Paid
 
