@@ -108,3 +108,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) — another collection of links to Ukrainian language tools.
 * [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) — speech recognition and text-to-speech models and datasets
+* [UNLP 2023 shared task](https://github.com/asivokon/unlp-2023-shared-task) —  shared task (competition) in grammatical error correction for Ukrainian 
