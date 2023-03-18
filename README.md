@@ -65,6 +65,9 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [XGLM](https://github.com/pytorch/fairseq/blob/main/examples/xglm/README.md) — multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian
 * [Tereveni-AI/GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
 
+*Mixed*:
+* [Electra](https://huggingface.co/lang-uk)
+
 ### Machine translation
 
 * [Helsinki-NLP / OPUS-MT models](https://github.com/Helsinki-NLP/UkrainianLT) — Ukrainian to/from 25 langaguages.
@@ -83,21 +86,31 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 
 * [MITIE NER Model](https://lang.org.ua/en/models/#anchor1)
 * [ukr-models/uk-ner](https://huggingface.co/ukr-models/uk-ner)
+* [lang-uk/flair-uk-ner](https://huggingface.co/lang-uk/flair-uk-ner)
+* [dchaplinsky/uk_ner_web_trf_large](https://huggingface.co/dchaplinsky/uk_ner_web_trf_large)
+
+### Part-of-speech tagging (POS)
+
+* [lang-uk/flair-uk-pos](https://huggingface.co/lang-uk/flair-uk-pos)
 
 ### Word embeddings
 
-* [UA fastText on CommonCrawl and Wiki](https://fasttext.cc/docs/en/crawl-vectors.html)
-* [UA fastText on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md)
-* [fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) — word vectors in 78 languages, aligned to the same vector space.
+* fastText
+  - [Official fastText trained on CommonCrawl and Wiki](https://fasttext.cc/docs/en/crawl-vectors.html) — 157 languages, including Ukrainian.
+  - [Older official fastText trained on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) — 294 languages, including Ukrainian.
+  - [fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) — 78 languages, aligned to the same vector space.
+  - [fasttext_uk (2023)](https://huggingface.co/dchaplinsky/fasttext_uk) and [cbow](https://huggingface.co/dchaplinsky/fasttext_uk_cbow) — trained on UberText 2.0
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
 * [GloVe](https://lang.org.ua/en/models/#anchor4)
 * [LexVec](https://lang.org.ua/en/models/#anchor4)
 * [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md)
+* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022. 
 
 ### Other
 
-* [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model 
-* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) — adds word stress
+* [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model based on XLM-RoBERTa-Uk.
+* [punctuation_uk_bert](https://huggingface.co/dchaplinsky/punctuation_uk_bert) — another punctation and case restoration model based on bert-base-multilingual-cased.
+* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) — adds word stress.
 
 ## 4. Paid
 
@@ -108,4 +121,11 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) — another collection of links to Ukrainian language tools.
 * [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) — speech recognition and text-to-speech models and datasets
-* [UNLP 2023 shared task](https://github.com/asivokon/unlp-2023-shared-task) —  shared task (competition) in grammatical error correction for Ukrainian 
+* UNLP 2023 shared task — shared task (competition) in grammatical error correction for Ukrainian 
+  - [Training data and evaluation scripts](https://github.com/asivokon/unlp-2023-shared-task) 
+  - [Public leaderboard](https://codalab.lisn.upsaclay.fr/competitions/10740)
+
+
+## 6. Workshops and conferences
+
+* [Ukrainian Natural Language Processing Workshop](https://unlp.org.ua/)
