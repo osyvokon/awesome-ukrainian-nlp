@@ -7,7 +7,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 ### Monolingual
 
 * [Brown-UK](https://github.com/brown-uk/corpus) — carefully curated corpus of modern Ukrainian language
-* [UberText](https://lang.org.ua/uk/corpora/#anchor4) — 6 GB of news, Wikipedia and fiction texts
+* [UberText 2.0](https://lang.org.ua/en/ubertext/) — over 5 GB of news, Wikipedia, social, fiction, and legal texts
 * [Wikipedia](https://dumps.wikimedia.org/ukwiki/latest/)
 * [OSCAR](https://oscar-corpus.com/) — shuffled sentences extracted from [Common Crawl](https://commoncrawl.org/) and classified with a language detection model. Ukrainian portion of it is 28GB deduplicated.
 * [CC-100](http://data.statmt.org/cc-100/) — documents extracted from [Common Crawl](https://commoncrawl.org/), automatically classified and filtered. Ukrainian part is 200M sentences or 10GB of deduplicated text.
