@@ -6,7 +6,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Monolingual
 
-* [Brown-UK](https://github.com/brown-uk/corpus) — carefully curated corpus of modern Ukrainian language
+* [Brown-UK](https://github.com/brown-uk/corpus) — carefully curated corpus of modern Ukrainian language with dismabiguated tokens, 1 million words
 * [UberText 2.0](https://lang.org.ua/en/ubertext/) — over 5 GB of news, Wikipedia, social, fiction, and legal texts
 * [Wikipedia](https://dumps.wikimedia.org/ukwiki/latest/)
 * [OSCAR](https://oscar-corpus.com/) — shuffled sentences extracted from [Common Crawl](https://commoncrawl.org/) and classified with a language detection model. Ukrainian portion of it is 28GB deduplicated.
@@ -54,6 +54,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [pymorphy2](https://github.com/kmike/pymorphy2) + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
 * [LanguageTool](https://languagetool.org/uk/) — grammar, style and spell checker
 * [Stanza](https://stanfordnlp.github.io/stanza/) — Python package for tokenization, multi-word-tokenization, lemmatization, POS, dependency parsing, NER
+* [nlp-uk](https://github.com/brown-uk/nlp_uk) — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
 
  
 
