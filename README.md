@@ -30,7 +30,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 
 * [UA-GEC](https://github.com/grammarly/ua-gec) —  grammatical error correction (GEC) and fluency corpus.
 * [NER-uk](https://github.com/lang-uk/ner-uk) — Brown-UK labeled for named entities.
-* [Yakaboo Book Reviews](https://yakaboo-book-reviews-dataset.imfast.io/) — book reviews, rating and descriptions.
+* [Yakaboo Book Reviews](https://1drv.ms/f/s!AgoiFOsRix8LcYNBl26rru8wGGo?e=geqLkp) — book reviews, ratings and descriptions.
 * [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) — dependency trees corpus.
 * [ua-news](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/text_classification) — 150k news article in 5 categories.
 * [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) — Ukrainian version of Stanford Question Answering Dataset.
