@@ -1,6 +1,10 @@
 # awesome-ukrainian-nlp
 Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)
 
+## News
+
+2024/01 -- [UNLP 2024 shared task](https://github.com/unlp-workshop/unlp-2024-shared-task) has been announced
+
 
 ## 1. Datasets / Corpora
 
@@ -128,11 +132,11 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) — another collection of links to Ukrainian language tools.
 * [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) — speech recognition and text-to-speech models and datasets
-* UNLP 2023 shared task — shared task (competition) in grammatical error correction for Ukrainian 
-  - [Training data and evaluation scripts](https://github.com/asivokon/unlp-2023-shared-task) 
-  - [Public leaderboard](https://codalab.lisn.upsaclay.fr/competitions/10740)
-
 
 ## 6. Workshops and conferences
 
 * [Ukrainian Natural Language Processing Workshop](https://unlp.org.ua/)
+* UNLP 2023 shared task — shared task (competition) in grammatical error correction for Ukrainian 
+  - [Training data and evaluation scripts](https://github.com/osyvokon/unlp-2023-shared-task) 
+  - [Public leaderboard](https://codalab.lisn.upsaclay.fr/competitions/10740)
+* [UNLP 2024 shared task](https://github.com/unlp-workshop/unlp-2024-shared-task) — shared task (competition) on fine-tuning large language models (LLMs) for Ukrainian
