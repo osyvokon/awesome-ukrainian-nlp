@@ -75,6 +75,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [UAlpaca](https://github.com/robinhad/kruk) — Llama fine-tuned for instruction following on the machine-translated Alpaca dataset.
 * [XGLM](https://github.com/pytorch/fairseq/blob/main/examples/xglm/README.md) — multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian.
 * [Tereveni-AI/GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
+* [uk4b](https://github.com/proger/uk4b) and [haloop inference toolkit](https://github.com/proger/haloop/tree/main#pretrained-models) - GPT-2 small, medium and large-style models trained on UberText 2.0 wikipedia, news and books. 
 
 *Mixed*:
 * [Electra](https://huggingface.co/lang-uk)
