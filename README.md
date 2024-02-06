@@ -59,6 +59,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [LanguageTool](https://languagetool.org/uk/) — grammar, style and spell checker
 * [Stanza](https://stanfordnlp.github.io/stanza/) — Python package for tokenization, multi-word-tokenization, lemmatization, POS, dependency parsing, NER
 * [nlp-uk](https://github.com/brown-uk/nlp_uk) — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
+* [NLP-Cube](https://github.com/adobe/NLP-Cube) - Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.
 
  
 
