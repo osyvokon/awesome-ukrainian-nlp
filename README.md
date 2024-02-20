@@ -51,6 +51,10 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) — map abbreviation to expansion
 
+### Prompts
+
+* [Aya](https://huggingface.co/datasets/CohereForAI/aya_dataset) — crowd-sourced prompts and reference outputs. Ukrainian part is ~500 prompts.
+
 
 ## 2. Tools
 
@@ -67,16 +71,17 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 
 ### Language models
 
-*Masked:*
-* [xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) — truncated version of XLM-RoBERTa with only Ukrainian and English embeddings left.
-* [youscan/ukr-roberta-base](https://huggingface.co/youscan/ukr-roberta-base)
-
 *Autoregressive:*
+* [aya-101](https://huggingface.co/CohereForAI/aya-101) — massively multilingual LM, 13B parameters
 * [pythia-uk](https://huggingface.co/theodotus/pythia-uk) — mT5 finetuned on wiki and oasst1 for chats in Ukrainian.
 * [UAlpaca](https://github.com/robinhad/kruk) — Llama fine-tuned for instruction following on the machine-translated Alpaca dataset.
 * [XGLM](https://github.com/pytorch/fairseq/blob/main/examples/xglm/README.md) — multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian.
 * [Tereveni-AI/GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
 * [uk4b](https://github.com/proger/uk4b) and [haloop inference toolkit](https://github.com/proger/haloop/tree/main#pretrained-models) - GPT-2 small, medium and large-style models trained on UberText 2.0 wikipedia, news and books. 
+
+*Masked:*
+* [xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) — truncated version of XLM-RoBERTa with only Ukrainian and English embeddings left.
+* [youscan/ukr-roberta-base](https://huggingface.co/youscan/ukr-roberta-base)
 
 *Mixed*:
 * [Electra](https://huggingface.co/lang-uk)
