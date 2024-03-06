@@ -10,6 +10,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Monolingual
 
+* [Malyuk](https://huggingface.co/datasets/lang-uk/malyuk) — 113GB of text, compilation of UberText 2.0, OSCAR, Ukrainian News. 
 * [Brown-UK](https://github.com/brown-uk/corpus) — carefully curated corpus of modern Ukrainian language with dismabiguated tokens, 1 million words
 * [UberText 2.0](https://lang.org.ua/en/ubertext/) — over 5 GB of news, Wikipedia, social, fiction, and legal texts
 * [Wikipedia](https://dumps.wikimedia.org/ukwiki/latest/)
