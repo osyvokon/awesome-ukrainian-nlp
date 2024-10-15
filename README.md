@@ -94,6 +94,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
   - [OPUS-MT models at HuggingFace](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
   - [OPUS-MT models evaluated on flores101](https://github.com/Helsinki-NLP/UkrainianLT/blob/main/opus-mt-ukr-flores-devtest.md)
 * [M2M-100](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100) — Ukrainian to/from 100 languages.
+* [Uk-En folktale corpus](https://github.com/Ukrainian-To-English-Corpora/Folktale_corpus) — small sentence-aligned corpus of fairy tales.
 
 See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for more.
 
