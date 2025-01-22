@@ -3,7 +3,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ## News
 
-2024/01 -- [UNLP 2024 shared task](https://github.com/unlp-workshop/unlp-2024-shared-task) has been announced
+* 2024/12 -- [UNLP 2025 Shared Task on Detecting Social Media Manipulation](https://unlp.org.ua/shared-task/) has been announced.
+* 2024/01 -- [UNLP 2024 Shared Task on Fine-Tuning LLMs for Ukrainian](https://github.com/unlp-workshop/unlp-2024-shared-task) has been announced.
 
 
 ## 1. Datasets / Corpora
@@ -146,7 +147,8 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 ## 6. Workshops and conferences
 
 * [Ukrainian Natural Language Processing Workshop](https://unlp.org.ua/)
-* UNLP 2023 shared task — shared task (competition) in grammatical error correction for Ukrainian 
+* UNLP 2023 Shared Task — shared task (competition) in grammatical error correction for Ukrainian 
   - [Training data and evaluation scripts](https://github.com/osyvokon/unlp-2023-shared-task) 
   - [Public leaderboard](https://codalab.lisn.upsaclay.fr/competitions/10740)
-* [UNLP 2024 shared task](https://github.com/unlp-workshop/unlp-2024-shared-task) — shared task (competition) on fine-tuning large language models (LLMs) for Ukrainian
+* [UNLP 2024 Shared Task](https://github.com/unlp-workshop/unlp-2024-shared-task) — shared task (competition) on fine-tuning large language models (LLMs) for Ukrainian
+* [UNLP 2025 Shared Task on Detecting Social Media Manipulation](https://unlp.org.ua/shared-task/)
