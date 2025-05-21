@@ -75,6 +75,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 ### Language models
 
 *Autoregressive:*
+* [Phi-4-Ukrainian](https://huggingface.co/spaces/kloba/Phi-4-Ukrainian) — interactive demo of Microsoft’s Phi-4 family of models with Ukrainian language support (includes Phi-4 (14B), Phi-4-mini (1.3B), as well as reasoning and multimodal variants) 
 * [aya-101](https://huggingface.co/CohereForAI/aya-101) — massively multilingual LM, 13B parameters
 * [pythia-uk](https://huggingface.co/theodotus/pythia-uk) — mT5 finetuned on wiki and oasst1 for chats in Ukrainian.
 * [UAlpaca](https://github.com/robinhad/kruk) — Llama fine-tuned for instruction following on the machine-translated Alpaca dataset.
