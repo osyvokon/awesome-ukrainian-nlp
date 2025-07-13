@@ -11,6 +11,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Monolingual
 
+* [Kobza](https://huggingface.co/datasets/Goader/kobza) — around 1.3TB of uncompressed text, 60 billion tokens across 97 million documents, deduplicated compilation of CulturaX, Fineweb 2, HPLT 2.0, Ukrainian News and UberText 2.0.
 * [Malyuk](https://huggingface.co/datasets/lang-uk/malyuk) — 113GB of text, compilation of UberText 2.0, OSCAR, Ukrainian News. 
 * [Brown-UK](https://github.com/brown-uk/corpus) — carefully curated corpus of modern Ukrainian language with dismabiguated tokens, 1 million words
 * [UberText 2.0](https://lang.org.ua/en/ubertext/) — over 5 GB of news, Wikipedia, social, fiction, and legal texts
@@ -85,6 +86,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 *Masked:*
 * [xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) — truncated version of XLM-RoBERTa with only Ukrainian and English embeddings left.
 * [youscan/ukr-roberta-base](https://huggingface.co/youscan/ukr-roberta-base)
+* [Goader/modern-liberta-large](https://huggingface.co/Goader/modern-liberta-large) — ModernBERT Large with Ukrainian tokenizer and 8192 context window, continually pretrained on 160B tokens.
 
 *Mixed*:
 * [Electra](https://huggingface.co/lang-uk)
