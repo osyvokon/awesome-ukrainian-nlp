@@ -36,7 +36,8 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 ### Labeled
 
 * [ZNO](https://huggingface.co/datasets/osyvokon/zno) — ~4000 questions and answers from Ukrainian External independent testing (ЗНО/ZNO).
-* [UA-GEC](https://github.com/grammarly/ua-gec) —  grammatical error correction (GEC) and fluency corpus.
+* [UA-GEC](https://github.com/grammarly/ua-gec) — grammatical error correction (GEC) and fluency corpus.
+* [OmniGEC](https://huggingface.co/collections/lang-uk/omnigec-68095391ebef195ed6c0a5f3) — synthetic GEC datasets, along with models.
 * [NER-uk](https://github.com/lang-uk/ner-uk) — Brown-UK labeled for named entities.
 * [Yakaboo Book Reviews](https://1drv.ms/f/s!AgoiFOsRix8LcYNBl26rru8wGGo?e=geqLkp) — book reviews, ratings and descriptions.
 * [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) — dependency trees corpus.
