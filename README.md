@@ -35,7 +35,8 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 
 ### Labeled
 
-* [ZNO](https://huggingface.co/datasets/osyvokon/zno) — ~4000 questions and answers from Ukrainian External independent testing (ЗНО/ZNO).
+* [ZNO](https://huggingface.co/datasets/osyvokon/zno) — ~4000 text-only questions and answers from Ukrainian External independent testing (ЗНО/ZNO).
+* [MMZNO](https://huggingface.co/datasets/lang-uk/MMZNO) — ~4000 multi-modal (text and images) ZNO questions
 * [UA-GEC](https://github.com/grammarly/ua-gec) — grammatical error correction (GEC) and fluency corpus.
 * [OmniGEC](https://huggingface.co/collections/lang-uk/omnigec-68095391ebef195ed6c0a5f3) — synthetic GEC datasets, along with models.
 * [NER-uk](https://github.com/lang-uk/ner-uk) — Brown-UK labeled for named entities.
@@ -134,7 +135,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for
 ### Other
 
 * [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model based on XLM-RoBERTa-Uk.
-* [punctuation_uk_bert](https://huggingface.co/dchaplinsky/punctuation_uk_bert) — another punctation and case restoration model based on bert-base-multilingual-cased.
+* [punctuation_uk_bert](https://huggingface.co/dchaplinsky/punctuation_uk_bert) — another punctuation and case restoration model based on bert-base-multilingual-cased.
 * [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) — adds word stress.
 
 ## 4. Paid
