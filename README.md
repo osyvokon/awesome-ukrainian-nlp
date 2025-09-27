@@ -83,7 +83,9 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [UAlpaca](https://github.com/robinhad/kruk) — Llama fine-tuned for instruction following on the machine-translated Alpaca dataset.
 * [XGLM](https://github.com/pytorch/fairseq/blob/main/examples/xglm/README.md) — multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian.
 * [Tereveni-AI/GPT-2](https://huggingface.co/Tereveni-AI/gpt2-124M-uk-fiction)
-* [uk4b](https://github.com/proger/uk4b) and [haloop inference toolkit](https://github.com/proger/haloop/tree/main#pretrained-models) - GPT-2 small, medium and large-style models trained on UberText 2.0 wikipedia, news and books. 
+* [uk4b](https://github.com/proger/uk4b) and [haloop inference toolkit](https://github.com/proger/haloop/tree/main#pretrained-models) - GPT-2 small, medium and large-style models trained on UberText 2.0 wikipedia, news and books.
+* [MamayLM v0.1](https://huggingface.co/collections/INSAIT-Institute/mamaylm-gemma-2-68080b895a949a52b474d5de) - Ukrainian-focused Gemma 2 based 9B model, pre-trained and fine-tuned on large Ukrainian/English corpora (blog in [Ukrainian](https://huggingface.co/blog/INSAIT-Institute/mamaylm-ukr) and [English](https://huggingface.co/blog/INSAIT-Institute/mamaylm))
+* [MamayLM v1.0](https://huggingface.co/collections/INSAIT-Institute/mamaylm-v10-gemma-3-68d3fd732b78eaba4886db9d) - Ukrainian-focused Gemma 3 based 4B and 12B multimodal models, pre-trained and fine-tuned on large Ukrainian/English corpora ([blog](https://blog.mamaylm.insait.ai/))
 
 *Masked:*
 * [xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) — truncated version of XLM-RoBERTa with only Ukrainian and English embeddings left.
