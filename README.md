@@ -3,6 +3,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ## News
 
+* 2025-11 -- [UNLP 2026 — The Fifth UNLP Conference](https://unlp.org.ua/call-for-papers/) first call for papers
 * 2024/12 -- [UNLP 2025 Shared Task on Detecting Social Media Manipulation](https://unlp.org.ua/shared-task/) has been announced.
 * 2024/01 -- [UNLP 2024 Shared Task on Fine-Tuning LLMs for Ukrainian](https://github.com/unlp-workshop/unlp-2024-shared-task) has been announced.
 
