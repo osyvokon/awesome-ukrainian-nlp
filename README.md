@@ -23,6 +23,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) — 250k sentences scraped from forums.
 * [Ukrainain news headlines](https://huggingface.co/datasets/Yehor/news-headlines-ubercorpus) — 3.98M news headlines.
+* [STQ-UA](https://huggingface.co/datasets/danylo-boiko/stq-ua) — 100k Ukrainian search queries.
 
 ### Parallel
 
