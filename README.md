@@ -58,6 +58,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) for 
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) 
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) — map abbreviation to expansion
+* [soloviy](https://soloviy.app) — open dictionary of living Ukrainian dialects: 17K+ words with 28K+ geolocated attestations across 27 regions, community-submitted and editorially verified; keyless REST API ([docs](https://soloviy.app/llms.txt)), attribution required.
 
 ### Prompts
 
